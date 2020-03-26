@@ -1,0 +1,14 @@
+{
+  "name": "websocketserver",
+  "version": "1.0.0",
+  "description": "WebSocket server from test task GP",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yastrebov Vladimir",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.2.3"
+  }
+}
